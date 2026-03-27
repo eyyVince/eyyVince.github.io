@@ -1,1 +1,1 @@
-Check out my [Website]([https://eyyvince.github.io/])
+Check out my [Website](https://eyyvince.github.io/)
